@@ -101,7 +101,7 @@ void printWelcomeMenu() {
 }
 
 void printOptions() {
-	printf("1. Get Rectange Length & Width\n");
+	printf("1. Get Rectangle Length & Width\n");
 	printf("2. Change Rectangle Length\n");
 	printf("3. Change Rectangle Width\n");
 	printf("4. Get Rectangle Perimeter\n");
