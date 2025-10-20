@@ -73,7 +73,7 @@ int getIntInput(char message[]) {
 }
 
 void setLength(int input, int *length) {
-	if (input >= 0 && input < 100) {
+	if (input >= 1 && input < 99) {
 		*length = input;
 	}
 }
